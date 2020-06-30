@@ -13,7 +13,7 @@ EFI for Clover 5119 - Catalina 10.15.5 - SMBIOS MacBookPro15,2
 
 -Sleep
 
--Graphics acceleration (Full Metal Suuport)
+-Graphics acceleration (Full Metal Support)
 
 -Audio
 
