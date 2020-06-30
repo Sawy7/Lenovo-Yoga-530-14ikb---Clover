@@ -1,6 +1,6 @@
 # Lenovo Yoga 530 14ikb - Clover
 
-EFI for Clover 5119 - Catalina 10.15.5 - SMBIOS MacBookPro15,2
+EFI for Clover 5119 - Catalina 10.15.5 - SMBIOS MacBookPro15,2 (SMBIOS serials removed from plist - please generate new values)
 
 # What Works:
 
