@@ -1,10 +1,8 @@
-# Lenovo-Yoga-530-14ikb---Clover
+# Lenovo Yoga 530 14ikb - Clover
 
-EFI for Clover 5119
+EFI for Clover 5119 - Catalina 10.15.5 - SMBIOS MacBookPro15,2 (SMBIOS serials removed from plist - please generate new values)
 
-Catalina 10.15.5 - SMBIOS MacBookPro15,2
-
-What Works:
+# What Works:
 
 
 -Trackpad, Touch screen and stylus (full support)
@@ -15,7 +13,7 @@ What Works:
 
 -Sleep
 
--Graphics acceleration (Full Metal Suuport)
+-Graphics acceleration (Full Metal Support)
 
 -Audio
 
@@ -32,7 +30,7 @@ What Works:
 -HDMI Output
 
 
-What Wont Work
+# What Wont Work
 
 -Discrete GPU Nvidia - Disabled in BIOS so no SSDT or Patch Used
 
